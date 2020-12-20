@@ -1,7 +1,7 @@
 var btnTranslate= document.querySelector("#btn-translate")
 var inputText=document.querySelector("#txt-input")
 var outputText=document.querySelector("#output")
-var server="https://api.funtranslations.com/translate/braille.json"
+var server="https://api.funtranslations.com/translate/pig-latin.json"
 
 
 function translateText(text){
